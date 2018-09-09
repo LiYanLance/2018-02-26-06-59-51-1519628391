@@ -1,5 +1,4 @@
 import Person from "./person"
-import Class from "./class";
 
 class Student extends Person{
 
